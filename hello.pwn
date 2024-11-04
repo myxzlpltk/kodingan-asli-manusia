@@ -1,3 +1,4 @@
+// What is open.mp? : https://www.open.mp/
 #include <open.mp>
 main()
 {
